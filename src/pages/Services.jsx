@@ -1,2 +1,7 @@
 import ServicesSection from "../components/ServicesSection";
-export default () => <ServicesSection />;
+
+const Services = () => {
+  return <ServicesSection />;
+};
+
+export default Services;

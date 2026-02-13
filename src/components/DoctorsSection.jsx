@@ -2,6 +2,8 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import { Stethoscope, ArrowRight } from "lucide-react";
 
+<Stethoscope size={24} className="text-blue-600" />
+
 /* =======================
    DOCTORS DATA (SAME SOURCE)
 ======================= */

@@ -1,2 +1,7 @@
 import DoctorsSection from "../components/DoctorsSection";
-export default () => <DoctorsSection />;
+
+const Doctors = () => {
+  return <DoctorsSection />;
+};
+
+export default Doctors;
